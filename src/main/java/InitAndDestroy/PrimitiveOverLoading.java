@@ -3,7 +3,7 @@ package InitAndDestroy;
 /**
  * Created by wuxg-a on 2018/1/2.
  */
-
+//第五章 5.2
 //基本数据类型能 从一个较小类型自动提升为一个较大的类型
 public class PrimitiveOverLoading {
     static void f1(char x){
